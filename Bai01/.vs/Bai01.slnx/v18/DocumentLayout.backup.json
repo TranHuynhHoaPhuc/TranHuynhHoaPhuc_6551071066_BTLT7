@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\datawf\\Bai_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD26BEC2-11AB-D17D-8950-5E226B77F373}|Bai_01\\Bai_01.csproj|e:\\datawf\\bai_01\\bai_01\\models\\trithucbookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD26BEC2-11AB-D17D-8950-5E226B77F373}|Bai_01\\Bai_01.csproj|solutionrelative:bai_01\\models\\trithucbookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD26BEC2-11AB-D17D-8950-5E226B77F373}|Bai_01\\Bai_01.csproj|e:\\datawf\\bai_01\\bai_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD26BEC2-11AB-D17D-8950-5E226B77F373}|Bai_01\\Bai_01.csproj|solutionrelative:bai_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4992C82-D2E3-417C-BABC-8D58E48FD6BD}|Bai_01\\Bai_01.csproj|E:\\datawf\\Bai_01\\bai_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4992C82-D2E3-417C-BABC-8D58E48FD6BD}|Bai_01\\Bai_01.csproj|solutionrelative:bai_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD26BEC2-11AB-D17D-8950-5E226B77F373}|Bai_01\\Bai_01.csproj|e:\\datawf\\bai_01\\bai_01\\models\\theloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD26BEC2-11AB-D17D-8950-5E226B77F373}|Bai_01\\Bai_01.csproj|solutionrelative:bai_01\\models\\theloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\datawf\\Bai_01\\Bai_01\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_01\\Form1.cs",
+              "ToolTip": "E:\\datawf\\Bai_01\\Bai_01\\Form1.cs",
+              "RelativeToolTip": "Bai_01\\Form1.cs",
+              "ViewState": "AgIAAGYCAAAAAAAAAAAYwHQCAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T02:48:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheLoaiSach.cs",
+              "DocumentMoniker": "E:\\datawf\\Bai_01\\Bai_01\\Models\\TheLoaiSach.cs",
+              "RelativeDocumentMoniker": "Bai_01\\Models\\TheLoaiSach.cs",
+              "ToolTip": "E:\\datawf\\Bai_01\\Bai_01\\Models\\TheLoaiSach.cs",
+              "RelativeToolTip": "Bai_01\\Models\\TheLoaiSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T02:38:42.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TriThucBooksContext.cs",
+              "DocumentMoniker": "E:\\datawf\\Bai_01\\Bai_01\\Models\\TriThucBooksContext.cs",
+              "RelativeDocumentMoniker": "Bai_01\\Models\\TriThucBooksContext.cs",
+              "ToolTip": "E:\\datawf\\Bai_01\\Bai_01\\Models\\TriThucBooksContext.cs",
+              "RelativeToolTip": "Bai_01\\Models\\TriThucBooksContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA7wCoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T02:37:33.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\datawf\\Bai_01\\Bai_01\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_01\\Form1.cs",
+              "ToolTip": "E:\\datawf\\Bai_01\\Bai_01\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai_01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T02:18:57.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
